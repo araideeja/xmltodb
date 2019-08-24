@@ -1,0 +1,27 @@
+<PolicySet>
+<policy>
+	<policyCode>Policy1</policyCode>
+	<Plans>
+		<Plan>
+			<name>Plan1</name>
+		</Plan>
+		<Plan>
+			<name>Plan2</name>
+		</Plan>
+	</Plans>
+</policy>
+<policy>
+	<policyCode>Policy2</policyCode>
+	<Plans>
+		<Plan>
+			<name>Plan1</name>
+		</Plan>
+		<Plan>
+			<name>Plan2</name>
+		</Plan>
+		<Plan>
+			<name>Plan3</name>
+		</Plan>
+	</Plans>
+</policy>
+</PolicySet>
